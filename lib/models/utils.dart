@@ -1,0 +1,1 @@
+enum ProdiAuthenticationTypes { Basic, Token }
